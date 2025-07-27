@@ -103,7 +103,7 @@
         </mxCell>
         <mxCell id="oDULbP2nB6lb4kxzuLzo-28" value="Feature1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oDULbP2nB6lb4kxzuLzo-27" vertex="1" connectable="0">
           <mxGeometry x="0.6556" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oDULbP2nB6lb4kxzuLzo-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -201,6 +201,9 @@
             <mxPoint x="-545" y="230" as="sourcePoint" />
             <mxPoint x="-545" y="569.2857142857142" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sQZKz0KogJ9CH41emQ-3-2" value="Challanges;&lt;div&gt;Requires additional merges&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Reqires accurate linking bugs with appropriate story&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="3" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
