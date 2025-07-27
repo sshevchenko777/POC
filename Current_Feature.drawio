@@ -211,8 +211,8 @@
             <mxPoint x="621" y="479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gokz3ohhyjsnIPikW5Ka-38" value="&lt;div&gt;Challenges:&lt;/div&gt;Requires code freeze for release&lt;div&gt;&amp;nbsp;polution to UAT with uanfinished stories&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="10" width="240" height="60" as="geometry" />
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-38" value="&lt;div&gt;Challenges:&lt;/div&gt;Requires code freeze for release&lt;div&gt;Pollution to UAT with unfinished stories&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
