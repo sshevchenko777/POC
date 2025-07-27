@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="p-CExVX0zElQnxvjDnN5">
-    <mxGraphModel dx="766" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gokz3ohhyjsnIPikW5Ka-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="720" y="180" width="120" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Gokz3ohhyjsnIPikW5Ka-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gokz3ohhyjsnIPikW5Ka-43" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-43" value="" style="whiteSpace=wrap;html=1;fillStyle=dashed;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="560" y="180" width="130" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Gokz3ohhyjsnIPikW5Ka-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
@@ -209,7 +209,7 @@
             <mxPoint x="510" y="423" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gokz3ohhyjsnIPikW5Ka-36" value="Some other feature fix" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gokz3ohhyjsnIPikW5Ka-35">
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-36" value="Some other feature not possible" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gokz3ohhyjsnIPikW5Ka-35">
           <mxGeometry x="-0.6429" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -220,8 +220,8 @@
             <mxPoint x="616" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gokz3ohhyjsnIPikW5Ka-38" value="&lt;div&gt;Challenges:&lt;/div&gt;Requires code freeze for UAT cycle Devs are stopped&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pollution to UAT with unfinished stories&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ Low infrastructure costs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="5" width="310" height="70" as="geometry" />
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-38" value="&lt;div&gt;Challenges:&lt;/div&gt;&lt;div&gt;Do not allow parallel features&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;make sense on&amp;nbsp; huge features and long cycles&lt;/span&gt;&lt;/div&gt;&lt;div&gt;requires Dev stop on UAT, workaround use UAT as QA and QA give to start another feature&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ Low infrastructure costs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="510" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Gokz3ohhyjsnIPikW5Ka-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -277,6 +277,51 @@
         <mxCell id="Gokz3ohhyjsnIPikW5Ka-61" value="HotFixMerge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gokz3ohhyjsnIPikW5Ka-60">
           <mxGeometry x="0.0049" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="760" as="sourcePoint" />
+            <mxPoint x="70" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-69" value="Master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gokz3ohhyjsnIPikW5Ka-64">
+          <mxGeometry x="0.7" y="3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="730" as="sourcePoint" />
+            <mxPoint x="140" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="730" as="sourcePoint" />
+            <mxPoint x="120" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-70" value="Feateture1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gokz3ohhyjsnIPikW5Ka-66">
+          <mxGeometry x="0.3882" y="4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="610" as="sourcePoint" />
+            <mxPoint x="30" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-71" value="Feature2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gokz3ohhyjsnIPikW5Ka-67">
+          <mxGeometry x="-0.096" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gokz3ohhyjsnIPikW5Ka-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="610" as="sourcePoint" />
+            <mxPoint x="70" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
