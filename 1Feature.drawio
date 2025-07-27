@@ -202,8 +202,8 @@
             <mxPoint x="-530" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQZKz0KogJ9CH41emQ-3-2" value="Challanges;&lt;div&gt;Requires additional merges&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Reqires accurate linking bugs with appropriate story&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Requires workflow to make sure all merges included into branch&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ Parallel feature development&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ Low infrastructure costs&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="16" width="360" height="100" as="geometry" />
+        <mxCell id="sQZKz0KogJ9CH41emQ-3-2" value="Challanges;&lt;div&gt;Requires additional merges&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Requires accurate linking bugs with appropriate story&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Requires workflow to make sure all merges included into branch&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Short term QA risk that feature was dependent on other feature during Qa phase. On UAT phase may miss this&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ Parallel feature development&lt;/div&gt;&lt;div style=&quot;&quot;&gt;+ Low infrastructure costs&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="11" width="610" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sQZKz0KogJ9CH41emQ-3-3" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
