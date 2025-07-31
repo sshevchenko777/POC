@@ -95,9 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YlNA492H2YgrrMgGbjNw-18" value="`" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.9608" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="120" as="sourcePoint" />
             <mxPoint x="1040" y="119" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YlNA492H2YgrrMgGbjNw-19" value="Time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YlNA492H2YgrrMgGbjNw-18" vertex="1" connectable="0">
